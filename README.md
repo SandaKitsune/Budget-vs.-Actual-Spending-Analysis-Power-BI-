@@ -47,5 +47,5 @@ Overall: salary-related costs are one of the most consistent drivers of variance
 **How to Open**
 
 
-Download report/budget_actual.pbix and open it with Power BI Desktop (Windows).
+Download report/Budget vs Actual Spending.pbix and open it with Power BI Desktop (Windows).
 
